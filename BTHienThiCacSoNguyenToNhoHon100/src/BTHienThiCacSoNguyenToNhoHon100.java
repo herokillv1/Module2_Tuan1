@@ -1,6 +1,5 @@
 public class BTHienThiCacSoNguyenToNhoHon100 {
     public static void main(String[] args) {
-        int count = 0;
         int N = 2;
         while (N <= 100) {
             int i = 2;
@@ -14,7 +13,6 @@ public class BTHienThiCacSoNguyenToNhoHon100 {
             }
             if (check) {
                 System.out.println(N);
-                count++;
             }
             N++;
         }

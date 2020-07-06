@@ -19,10 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc913b37-154b-45f2-aeb8-3aabd53b84bb" name="Default Changelist" comment="[Bài tập] Hiển thị 20 số nguyên tố đầu tiên">
-      <change afterPath="$PROJECT_DIR$/BTHienThiCacSoNguyenToNhoHon100/BTHienThiCacSoNguyenToNhoHon100.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BTHienThiCacSoNguyenToNhoHon100/src/BTHienThiCacSoNguyenToNhoHon100.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="fc913b37-154b-45f2-aeb8-3aabd53b84bb" name="Default Changelist" comment="[Bài tập] Hiển thị các số nguyên tố nhỏ hơn 100">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTHienThiCacSoNguyenToNhoHon100/src/BTHienThiCacSoNguyenToNhoHon100.java" beforeDir="false" afterPath="$PROJECT_DIR$/BTHienThiCacSoNguyenToNhoHon100/src/BTHienThiCacSoNguyenToNhoHon100.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594012500955</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="[Bài tập] Hiển thị các số nguyên tố nhỏ hơn 100">
+      <created>1594013617293</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594013617293</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,7 +173,8 @@
     <MESSAGE value="[Thực hành] Tìm ước số chung lớn nhất" />
     <MESSAGE value="[Thực hành] Thiết kế menu cho ứng dụng" />
     <MESSAGE value="[Bài tập] Hiển thị 20 số nguyên tố đầu tiên" />
-    <option name="LAST_COMMIT_MESSAGE" value="[Bài tập] Hiển thị 20 số nguyên tố đầu tiên" />
+    <MESSAGE value="[Bài tập] Hiển thị các số nguyên tố nhỏ hơn 100" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Bài tập] Hiển thị các số nguyên tố nhỏ hơn 100" />
   </component>
   <component name="WindowStateProjectService">
     <state x="383" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594013397713">
@@ -178,26 +185,26 @@
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="658" y="330" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1594013395557" />
-    <state width="1815" height="295" key="GridCell.Tab.0.bottom" timestamp="1594012510124">
+    <state width="1815" height="295" key="GridCell.Tab.0.bottom" timestamp="1594013594618">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="295" key="GridCell.Tab.0.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1594012510124" />
-    <state width="1815" height="295" key="GridCell.Tab.0.center" timestamp="1594012510124">
+    <state width="1815" height="295" key="GridCell.Tab.0.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1594013594618" />
+    <state width="1815" height="295" key="GridCell.Tab.0.center" timestamp="1594013594617">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="295" key="GridCell.Tab.0.center/0.0.1858.1080@0.0.1858.1080" timestamp="1594012510124" />
-    <state width="1815" height="295" key="GridCell.Tab.0.left" timestamp="1594012510124">
+    <state width="1815" height="295" key="GridCell.Tab.0.center/0.0.1858.1080@0.0.1858.1080" timestamp="1594013594617" />
+    <state width="1815" height="295" key="GridCell.Tab.0.left" timestamp="1594013594617">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="295" key="GridCell.Tab.0.left/0.0.1858.1080@0.0.1858.1080" timestamp="1594012510124" />
-    <state width="1815" height="295" key="GridCell.Tab.0.right" timestamp="1594012510124">
+    <state width="1815" height="295" key="GridCell.Tab.0.left/0.0.1858.1080@0.0.1858.1080" timestamp="1594013594617" />
+    <state width="1815" height="295" key="GridCell.Tab.0.right" timestamp="1594013594617">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="295" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1594012510124" />
-    <state x="521" y="273" key="Vcs.Push.Dialog.v2" timestamp="1594012505648">
+    <state width="1815" height="295" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1594013594617" />
+    <state x="521" y="273" key="Vcs.Push.Dialog.v2" timestamp="1594013622583">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="521" y="273" key="Vcs.Push.Dialog.v2/0.0.1858.1080@0.0.1858.1080" timestamp="1594012505648" />
+    <state x="521" y="273" key="Vcs.Push.Dialog.v2/0.0.1858.1080@0.0.1858.1080" timestamp="1594013622583" />
     <state x="311" y="160" key="new project wizard" timestamp="1594012618069">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
