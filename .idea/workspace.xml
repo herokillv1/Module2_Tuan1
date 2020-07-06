@@ -20,13 +20,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc913b37-154b-45f2-aeb8-3aabd53b84bb" name="Default Changelist" comment="[Thực hành] Tìm ước số chung lớn nhất">
-      <change afterPath="$PROJECT_DIR$/Test/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/THThietKeMenuChoUngDung/THThietKeMenuChoUngDung.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/THThietKeMenuChoUngDung/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,14 +49,24 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Unnamed">
+  <component name="RunManager" selected="Application.ThietKeMenuChoUngDung">
     <configuration name="HienThiLoiChao" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="BTHienThiLoiChao" />
       <module name="BTHienThiLoiChao" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThietKeMenuChoUngDung" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="THThietKeMenuChoUngDung" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -60,6 +80,7 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.ThietKeMenuChoUngDung" />
       <item itemvalue="Application.HienThiLoiChao" />
     </list>
   </component>
@@ -100,14 +121,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="[Thực hành] Tìm ước số chung lớn nhất" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="383" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594006794428">
+    <state x="383" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594008326235">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="383" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1594006794428" />
-    <state x="658" y="330" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1594006492574">
+    <state x="383" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1594008326235" />
+    <state x="658" y="330" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1594008323178">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="658" y="330" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1594006492574" />
+    <state x="658" y="330" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1594008323178" />
     <state width="1815" height="295" key="GridCell.Tab.0.bottom" timestamp="1594006900408">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
@@ -124,5 +145,9 @@
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state width="1815" height="295" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1594006900408" />
+    <state x="311" y="160" key="new project wizard" timestamp="1594008014168">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="311" y="160" key="new project wizard/0.0.1858.1080@0.0.1858.1080" timestamp="1594008014168" />
   </component>
 </project>
