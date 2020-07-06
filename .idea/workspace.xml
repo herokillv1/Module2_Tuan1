@@ -19,12 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc913b37-154b-45f2-aeb8-3aabd53b84bb" name="Default Changelist" comment="[Thực hành] Tìm ước số chung lớn nhất">
-      <change afterPath="$PROJECT_DIR$/THThietKeMenuChoUngDung/THThietKeMenuChoUngDung.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/THThietKeMenuChoUngDung/src/Main.java" afterDir="false" />
+    <list default="true" id="fc913b37-154b-45f2-aeb8-3aabd53b84bb" name="Default Changelist" comment="[Thực hành] Thiết kế menu cho ứng dụng">
+      <change afterPath="$PROJECT_DIR$/BTHienThi20SoNguyenToDauTien/BTHienThi20SoNguyenToDauTien.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BTHienThi20SoNguyenToDauTien/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BTHienThiCacLoaiHinh/BTHienThiCacLoaiHinh.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BTHienThiCacLoaiHinh/src/BTHienThiCacLoaiHinh.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,12 +53,30 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.ThietKeMenuChoUngDung">
+  <component name="RunManager" selected="Application.HienThiSoNguyenToDauTien">
+    <configuration name="BTHienThiCacLoaiHinh" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="BTHienThiCacLoaiHinh" />
+      <module name="BTHienThiCacLoaiHinh" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HienThiLoiChao" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="BTHienThiLoiChao" />
       <module name="BTHienThiLoiChao" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HienThiSoNguyenToDauTien" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="BTHienThi20SoNguyenToDauTien" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -81,8 +100,15 @@
     <list>
       <item itemvalue="Application.Unnamed" />
       <item itemvalue="Application.ThietKeMenuChoUngDung" />
+      <item itemvalue="Application.BTHienThiCacLoaiHinh" />
       <item itemvalue="Application.HienThiLoiChao" />
+      <item itemvalue="Application.HienThiSoNguyenToDauTien" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HienThiSoNguyenToDauTien" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -102,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594006895844</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[Thực hành] Thiết kế menu cho ứng dụng">
+      <created>1594008625321</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594008625321</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,36 +151,41 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[Thực hành] Tìm ước số chung lớn nhất" />
-    <option name="LAST_COMMIT_MESSAGE" value="[Thực hành] Tìm ước số chung lớn nhất" />
+    <MESSAGE value="[Thực hành] Thiết kế menu cho ứng dụng" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Thực hành] Thiết kế menu cho ứng dụng" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="383" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594008326235">
+    <state x="383" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594012423858">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="383" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1594008326235" />
-    <state x="658" y="330" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1594008323178">
+    <state x="383" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1594012423858" />
+    <state x="658" y="330" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1594012419748">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="658" y="330" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1594008323178" />
-    <state width="1815" height="295" key="GridCell.Tab.0.bottom" timestamp="1594006900408">
+    <state x="658" y="330" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1594012419748" />
+    <state width="1815" height="295" key="GridCell.Tab.0.bottom" timestamp="1594012341922">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="295" key="GridCell.Tab.0.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1594006900408" />
-    <state width="1815" height="295" key="GridCell.Tab.0.center" timestamp="1594006900408">
+    <state width="1815" height="295" key="GridCell.Tab.0.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1594012341922" />
+    <state width="1815" height="295" key="GridCell.Tab.0.center" timestamp="1594012341922">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="295" key="GridCell.Tab.0.center/0.0.1858.1080@0.0.1858.1080" timestamp="1594006900408" />
-    <state width="1815" height="295" key="GridCell.Tab.0.left" timestamp="1594006900408">
+    <state width="1815" height="295" key="GridCell.Tab.0.center/0.0.1858.1080@0.0.1858.1080" timestamp="1594012341922" />
+    <state width="1815" height="295" key="GridCell.Tab.0.left" timestamp="1594012341922">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="295" key="GridCell.Tab.0.left/0.0.1858.1080@0.0.1858.1080" timestamp="1594006900408" />
-    <state width="1815" height="295" key="GridCell.Tab.0.right" timestamp="1594006900408">
+    <state width="1815" height="295" key="GridCell.Tab.0.left/0.0.1858.1080@0.0.1858.1080" timestamp="1594012341922" />
+    <state width="1815" height="295" key="GridCell.Tab.0.right" timestamp="1594012341922">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="295" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1594006900408" />
-    <state x="311" y="160" key="new project wizard" timestamp="1594008014168">
+    <state width="1815" height="295" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1594012341922" />
+    <state x="521" y="273" key="Vcs.Push.Dialog.v2" timestamp="1594008636661">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="311" y="160" key="new project wizard/0.0.1858.1080@0.0.1858.1080" timestamp="1594008014168" />
+    <state x="521" y="273" key="Vcs.Push.Dialog.v2/0.0.1858.1080@0.0.1858.1080" timestamp="1594008636661" />
+    <state x="311" y="160" key="new project wizard" timestamp="1594011387985">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="311" y="160" key="new project wizard/0.0.1858.1080@0.0.1858.1080" timestamp="1594011387985" />
   </component>
 </project>
